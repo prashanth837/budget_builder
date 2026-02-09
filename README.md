@@ -10,6 +10,8 @@ This project was developed as part of an experimentation/hackathon workflow to e
 ---
 
 ## 🚀 Features
+*url:https://salarybudgetplanner.lovable.app
+
 
 * Add and track expenses easily
 * Set savings goals for future purchases
@@ -70,3 +72,4 @@ The goal of this project is to:
 ## ⭐ Repository
 
 If you find this useful or interesting, feel free to star the repo!
+
